@@ -68,4 +68,6 @@ const names = [
  
  const uniqeNames = removeDuplicated(names)
  console.log(uniqeNames);
- 
+
+
+
